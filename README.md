@@ -1,10 +1,13 @@
 # Exercise 1 - Git
 
 **Passed by:** Kenneth Renz A. Tegrado
+
 **Student Number:** 2021-09799
 **Section:** UV-4L
+
 **Project Description:** Make a simple portfolio site made with HTML and CSS to demonstrate the power of Git as a code versioning system.
-**Deployment via:** https://kennethtegrado.github.io/
+
+**Deployment via:** https://cmsc100-uv4l.github.io/exer-01-github-repository-kennethtegrado/
 
 ---
 
